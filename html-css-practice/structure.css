@@ -1,0 +1,22 @@
+.contenedor{
+    width: 100%;
+    background-color: grey;
+}
+
+section{
+    background-color: tomato;
+    width: 60%;
+    float: left;
+}
+
+aside{
+    background-color: lightgreen;
+    width: 40%;
+    float: right;
+}
+
+footer{
+    background-color: rgba(0, 0, 255, 0.329);
+    height: 40px;
+    clear: both;
+}

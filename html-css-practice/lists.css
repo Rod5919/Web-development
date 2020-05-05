@@ -1,0 +1,15 @@
+ol > li{
+    background-color:#3aa13f60;
+}
+
+ul li{
+    background-color: rgba(255, 201, 100, 0.103);
+}
+
+p{
+    color: rgba(128, 180, 24, 0.596);
+}
+
+.ultimo{
+    color: blueviolet;
+}

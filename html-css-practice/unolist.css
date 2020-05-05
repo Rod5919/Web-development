@@ -1,0 +1,11 @@
+li:first-child{
+    color: orange;
+}
+
+li:last-child{
+    background-color: cadetblue;
+}
+
+li:nth-child(2n){
+    background-color: darkgoldenrod;
+}

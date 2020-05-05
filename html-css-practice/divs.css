@@ -1,0 +1,39 @@
+/* Primera division */
+.level1{
+    width: 400px;
+    height: 100px;
+    background-color: red;
+    font-size: 80px;
+}
+
+.level1 > div{
+    display: inline;
+}
+
+.level2{
+    background-color: green;
+    width: 50%;
+    height: 50%;
+    font-size: 50%;
+}
+
+.level2 > div{
+    display: inline;
+}
+
+.level3{
+    background-color: blue;
+    width: 50%;
+    height: 50%;
+    font-size: 50%;
+}
+
+/* Segunda division */
+.level4{
+    border: 1px solid;
+    background-color: deepskyblue;
+}
+
+.level4 > div{
+    display: inline;
+}

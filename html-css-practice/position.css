@@ -1,0 +1,43 @@
+/* .estatico{
+    position: static;
+    top, left, right, bottom no sirven aqui
+    top: 50px;
+    left: 50px;
+    right: 50px;
+    bottom: 50px;
+} */
+
+.titulo{
+    background-color: gold;
+    width: 400px;
+}
+
+.contenedor{
+    background-color: green;
+    position: relative;
+    width: 400px;
+    height: 400px;
+    /* Propiedades con mas peso */
+    top: 10px;
+    left: 5px;
+    /* Propiedades con menos peso */
+    right: 0;
+    bottom: 0;
+
+}
+
+.descripcion{
+    width: 100px;
+    background-color: greenyellow;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+
+.autor{
+    background-color: purple;
+    position: relative;
+    top: 0px;
+}
+
